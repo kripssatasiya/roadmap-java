@@ -11,21 +11,21 @@ Step by step guide to becoming a modern Java developer
 - [X] Installing Git + Initial Setup? | Git Tutorials #2
 - [X] Git: Three Stage Architecture | Git Tutorials #3
 - [X] Tracking Our first Git Project | Git Tutorials #4
-- [ ] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
-- [ ] Git: File Status Lifecycle | Git Tutorials #6
-- [ ] .gitignore: Ignoring Files in Git | Git Tutorials #7
-- [ ] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
-- [ ] Git: Skipping The Staging Area | Git Tutorials #9
-- [ ] Moving and Renaming Files In Git | Git Tutorials #10
-- [ ] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
-- [ ] Unstaging & Unmodifying Files In Git | Git Tutorials #12
-- [ ] GitHub: Working with Remote Repositories | Git Tutorials #13
-- [ ] Setting Alias In Git | Git Tutorials #14
-- [ ] Git: Creating & Switching Branches In Git | Git Tutorials #15
-- [ ] Branching & Merging a Production Grade Project | Git Tutorials #16
-- [ ] Resolving Merge Conflicts (With Example) | Git Tutorials #17
-- [ ] Git Branching Workflow in Production | Git Tutorials #18
-- [ ] Pushing Git Branches To Remote Repositories | Git Tutorials #19
+- [X] Cloning a Remote Git Repository from GitHub | Git Tutorials #5
+- [X] Git: File Status Lifecycle | Git Tutorials #6
+- [X] .gitignore: Ignoring Files in Git | Git Tutorials #7
+- [X] Git Diff: Showing Changes Between Commits/Staging Area & Working Directory | Git Tutorials #8
+- [X] Git: Skipping The Staging Area | Git Tutorials #9
+- [X] Moving and Renaming Files In Git | Git Tutorials #10
+- [X] Git Log: Viewing & Changing Commits In Git | Git Tutorials #11
+- [X] Unstaging & Unmodifying Files In Git | Git Tutorials #12
+- [X] GitHub: Working with Remote Repositories | Git Tutorials #13
+- [X] Setting Alias In Git | Git Tutorials #14
+- [X] Git: Creating & Switching Branches In Git | Git Tutorials #15
+- [X] Branching & Merging a Production Grade Project | Git Tutorials #16
+- [X] Resolving Merge Conflicts (With Example) | Git Tutorials #17
+- [X] Git Branching Workflow in Production | Git Tutorials #18
+- [X] Pushing Git Branches To Remote Repositories | Git Tutorials #19
 
 ### [The Complete Java Developer Course](https://www.udemy.com/course/java-the-complete-java-developer-course/)
 
