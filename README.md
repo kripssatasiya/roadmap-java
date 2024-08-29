@@ -32,8 +32,8 @@ Step by step guide to becoming a modern Java developer
  - [X] Getting Started
  - [X] Programming Tools Setup
  - [X] First Steps
- - [ ] IntelliJ Basics
- - [ ] Expressions, Statements & More
+ - [X] IntelliJ Basics
+ - [X] Expressions, Statements & More
  - [ ] Control Flow
  - [ ] OOP Part 1 - Inheritance
  - [ ] OOP Part 2 - Polymorphism
@@ -42,7 +42,7 @@ Step by step guide to becoming a modern Java developer
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
- - [ ] Day 00
+ - [X] Day 00
  - [ ] Day 01
  - [ ] Day 02
  - [ ] Day 03
