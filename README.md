@@ -49,8 +49,8 @@ Step by step guide to becoming a modern Java developer
  - [X] Day 04
  - [X] Day 05
  - [X] Day 06
- - [ ] Day 07
- - [ ] Day 08
+ - [X] Day 07
+ - [X] Day 08
  - [ ] Day 09
 
 ## Basic Stage 2
