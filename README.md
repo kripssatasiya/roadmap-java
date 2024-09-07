@@ -51,7 +51,7 @@ Step by step guide to becoming a modern Java developer
  - [X] Day 06
  - [X] Day 07
  - [X] Day 08
- - [ ] Day 09
+ - [X] Day 09
 
 ## Basic Stage 2
 
@@ -61,7 +61,7 @@ Step by step guide to becoming a modern Java developer
  - [X] Generics
  - [X] Nested Classes and Types
  - [X] Lambda Expressions, Functional Interfaces, and Method References
- - [ ] Java Collections
+ - [X] Java Collections
  - [ ] Using Final, Immutable classes, Constructors, Initializers, Sealed classes
  - [ ] Streams
  - [ ] Back to a Few Nuts and Bolts
