@@ -92,8 +92,8 @@ Step by step guide to becoming a modern Java developer
 
 ### [Hacker Rank Assignment](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
 
- - [ ] Day 20
- - [ ] Day 21
+ - [X] Day 20
+ - [X] Day 21
  - [ ] Day 22
  - [ ] Day 23
  - [ ] Day 24
@@ -107,20 +107,20 @@ Step by step guide to becoming a modern Java developer
 
 ### [Spring Framework](https://www.youtube.com/watch?v=GB8k2-Egfv0&list=PLC97BDEFDCDD169D7)
 
- - [ ]  01 - Understanding Dependency Injection
- - [ ]  02 - Setting Up
- - [ ]  03 - Understanding Spring Bean Factory
- - [ ]  04 - Writing Code Using the Bean Factory
- - [ ]  05 - ApplicationContext and Property Initialization
- - [ ]  06 - Using Constructor Injection
- - [ ]  07 - Injecting Objects
- - [ ]  08 - Inner Beans, Aliases and idref
- - [ ]  09 - Initializing Collections
- - [ ]  10 - Bean Autowiring
- - [ ]  11 - Understanding Bean Scopes
- - [ ]  12 - Using ApplicationContextAware
- - [ ]  13 - Bean Definition Inheritance
- - [ ]  14 - Lifecycle Callbacks
+ - [X]  01 - Understanding Dependency Injection
+ - [X]  02 - Setting Up
+ - [X]  03 - Understanding Spring Bean Factory
+ - [X]  04 - Writing Code Using the Bean Factory
+ - [X]  05 - ApplicationContext and Property Initialization
+ - [X]  06 - Using Constructor Injection
+ - [X]  07 - Injecting Objects
+ - [X]  08 - Inner Beans, Aliases and idref
+ - [X]  09 - Initializing Collections
+ - [X]  10 - Bean Autowiring
+ - [X]  11 - Understanding Bean Scopes
+ - [X]  12 - Using ApplicationContextAware
+ - [X]  13 - Bean Definition Inheritance
+ - [X]  14 - Lifecycle Callbacks
  - [ ]  15 - Writing a BeanPostProcessor
  - [ ]  16 - Writing a BeanFactoryPostProcessor
  - [ ]  17 - Coding To Interfaces
