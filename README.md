@@ -94,7 +94,7 @@ Step by step guide to becoming a modern Java developer
 
  - [X] Day 20
  - [X] Day 21
- - [ ] Day 22
+ - [X] Day 22
  - [ ] Day 23
  - [ ] Day 24
  - [ ] Day 25
@@ -121,8 +121,8 @@ Step by step guide to becoming a modern Java developer
  - [X]  12 - Using ApplicationContextAware
  - [X]  13 - Bean Definition Inheritance
  - [X]  14 - Lifecycle Callbacks
- - [ ]  15 - Writing a BeanPostProcessor
- - [ ]  16 - Writing a BeanFactoryPostProcessor
+ - [X]  15 - Writing a BeanPostProcessor
+ - [X]  16 - Writing a BeanFactoryPostProcessor
  - [ ]  17 - Coding To Interfaces
  - [ ]  18 - Introduction to Annotations and the Required Annotation
  - [ ]  19 - The Autowired Annotation
