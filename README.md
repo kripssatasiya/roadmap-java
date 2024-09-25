@@ -98,7 +98,7 @@ Step by step guide to becoming a modern Java developer
  - [X] Day 23
  - [X] Day 24
  - [X] Day 25
- - [ ] Day 26
+ - [X] Day 26
  - [ ] Day 27
  - [ ] Day 28
  - [ ] Day 29
@@ -136,9 +136,9 @@ Step by step guide to becoming a modern Java developer
 
  - [x] 01 - Introduction to Spring Data and Setting Up
  - [x] 02 - Using JDBC without Spring
- - [ ] 03 - Adding Spring and DataSource Configuration
- - [ ] 04 - Using JdbcTemplate
- - [ ] 05 - Returning Other Datatypes from JdbcTemplate
+ - [X] 03 - Adding Spring and DataSource Configuration
+ - [X] 04 - Using JdbcTemplate
+ - [X] 05 - Returning Other Datatypes from JdbcTemplate
  - [ ] 06 - Implementing RowMapper
  - [ ] 07 - Performing Write Operations with JdbcTemplate
  - [ ] 08 - Named Parameter JDBC Template
