@@ -99,7 +99,7 @@ Step by step guide to becoming a modern Java developer
  - [X] Day 24
  - [X] Day 25
  - [X] Day 26
- - [ ] Day 27
+ - [X] Day 27
  - [ ] Day 28
  - [ ] Day 29
 
@@ -139,9 +139,9 @@ Step by step guide to becoming a modern Java developer
  - [X] 03 - Adding Spring and DataSource Configuration
  - [X] 04 - Using JdbcTemplate
  - [X] 05 - Returning Other Datatypes from JdbcTemplate
- - [ ] 06 - Implementing RowMapper
- - [ ] 07 - Performing Write Operations with JdbcTemplate
- - [ ] 08 - Named Parameter JDBC Template
+ - [X] 06 - Implementing RowMapper
+ - [X] 07 - Performing Write Operations with JdbcTemplate
+ - [X] 08 - Named Parameter JDBC Template
  - [ ] 09 - DAO Support Classes
  - [ ] 10 - Using Hibernate with Spring
 
