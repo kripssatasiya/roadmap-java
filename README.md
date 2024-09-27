@@ -100,8 +100,8 @@ Step by step guide to becoming a modern Java developer
  - [X] Day 25
  - [X] Day 26
  - [X] Day 27
- - [ ] Day 28
- - [ ] Day 29
+ - [X] Day 28
+ - [X] Day 29
 
 ## Basic Stage 4
 
@@ -142,8 +142,8 @@ Step by step guide to becoming a modern Java developer
  - [X] 06 - Implementing RowMapper
  - [X] 07 - Performing Write Operations with JdbcTemplate
  - [X] 08 - Named Parameter JDBC Template
- - [ ] 09 - DAO Support Classes
- - [ ] 10 - Using Hibernate with Spring
+ - [X] 09 - DAO Support Classes
+ - [X] 10 - Using Hibernate with Spring
 
 ## Intermediate Stage 1
    
